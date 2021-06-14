@@ -1,0 +1,15 @@
+{
+  "name": "add2-wasm",
+  "collaborators": [
+    "Rutujapatil24"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "add2_wasm_bg.wasm",
+    "add2_wasm.js",
+    "add2_wasm.d.ts"
+  ],
+  "module": "add2_wasm.js",
+  "types": "add2_wasm.d.ts",
+  "sideEffects": false
+}
